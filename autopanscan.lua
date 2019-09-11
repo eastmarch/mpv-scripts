@@ -1,4 +1,4 @@
--- Automatically sets panscan to avoid horizontal black bars on 16:9 monitors
+-- Automatically sets panscan to avoid horizontal black bars on 16:9 screens
 -- Keeps vertical black bars on 4:3 content
 
 function panscan()
